@@ -19,3 +19,4 @@ git is intresting. I like it.
 The sky is blue.
 The traffic is heavy.
 I will leave the office at 18:00.
+Understanding git is not easy.

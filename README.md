@@ -15,3 +15,4 @@ It's time for lunch.
 In the afternoon, a little tired.
 Happy Friday.
 I want to go home.
+git is intresting. I like it.

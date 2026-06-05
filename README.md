@@ -13,3 +13,4 @@ I'm a little hungry.
 It's very hot today.
 It's time for lunch.
 In the afternoon, a little tired.
+Happy Friday.

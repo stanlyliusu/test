@@ -17,3 +17,4 @@ Happy Friday.
 I want to go home.
 git is intresting. I like it.
 The sky is blue.
+The traffic is heavy.

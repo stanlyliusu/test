@@ -8,3 +8,4 @@ today is Jun 5.
 It's sunny today.
 Today is Friday.
 I've drunk a cup of coffee today.
+The coffee is delicious.

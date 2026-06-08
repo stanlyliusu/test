@@ -8,3 +8,21 @@ today is Jun 5.
 It's sunny today.
 Today is Friday.
 I like eating fish.
+I've drunk a cup of coffee today.
+The coffee is delicious.
+I'm a little hungry.
+It's very hot today.
+It's time for lunch.
+In the afternoon, a little tired.
+Happy Friday.
+I want to go home.
+git is intresting. I like it.
+The sky is blue.
+The traffic is heavy.
+I will leave the office at 18:00.
+Understanding git is not easy.
+final try then go home.
+balabala
+balabala
+balabala
+World Cup is comming!

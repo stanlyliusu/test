@@ -7,6 +7,7 @@ Nothing to do with u.
 today is Jun 5.
 It's sunny today.
 Today is Friday.
+I like eating fish.
 I've drunk a cup of coffee today.
 The coffee is delicious.
 I'm a little hungry.
